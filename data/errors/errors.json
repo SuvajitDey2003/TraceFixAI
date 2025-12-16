@@ -1,1 +1,20 @@
-
+[
+  {
+    "error": "IndexError: list index out of range",
+    "cause": "Attempted to access an index beyond the list length.",
+    "fix": "Check list length before accessing elements.",
+    "prevention": "Use safe iteration patterns."
+  },
+  {
+    "error": "NullPointerException in Java",
+    "cause": "Using an object reference that is null.",
+    "fix": "Add null checks before usage.",
+    "prevention": "Initialize objects properly."
+  },
+  {
+    "error": "KeyError in Python dictionary",
+    "cause": "Accessed a missing dictionary key.",
+    "fix": "Use dict.get() or check key existence.",
+    "prevention": "Validate input keys."
+  }
+]
