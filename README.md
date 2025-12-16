@@ -3,7 +3,6 @@
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.110%2B-009688.svg)](https://fastapi.tiangolo.com/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.32%2B-FF4B4B.svg)](https://streamlit.io/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 **TraceFix AI** is an intelligent debugging assistant powered by Generative AI and RAG (Retrieval-Augmented Generation). It analyzes error messages and stack traces, identifies root causes, suggests fixes, and provides prevention strategies using real-world knowledge.
 
