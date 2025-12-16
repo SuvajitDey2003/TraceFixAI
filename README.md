@@ -29,6 +29,7 @@
   - [Running the Application](#running-the-application)
   - [API Usage](#api-usage)
   - [Example](#example)
+  - [Live Demo](#live-demo)
 - [Project Structure](#-project-structure)
 - [Technology Stack](#-technology-stack)
 - [Contributing](#-contributing)
@@ -161,6 +162,14 @@ The AI will provide:
 - **Fix**: Step-by-step solution to resolve the issue
 - **Prevention**: Best practices to avoid the error in the future
 - **Context**: Similar past issues for reference
+
+### Live Demo
+
+🚀 **Try TraceFix AI live:**  
+👉 https://desuva1903-tracefix-ai.hf.space
+
+> Paste an error message or stack trace and get instant root-cause analysis, fixes, and prevention tips powered by GenAI + RAG.
+
 
 ## 📁 Project Structure
 
